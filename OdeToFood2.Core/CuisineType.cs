@@ -1,4 +1,4 @@
-﻿namespace OdeToFood2.Core
+﻿namespace OdeToFood.Core
 {
     public enum CuisineType
     {

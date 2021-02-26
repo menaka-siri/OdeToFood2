@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OdeToFood2.Core
+namespace OdeToFood.Core
 {
     public class Restaurant
     {
