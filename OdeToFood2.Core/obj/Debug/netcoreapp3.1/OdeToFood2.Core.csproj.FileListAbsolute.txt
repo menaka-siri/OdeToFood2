@@ -1,0 +1,9 @@
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\bin\Debug\netcoreapp3.1\OdeToFood2.Core.deps.json
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\bin\Debug\netcoreapp3.1\OdeToFood2.Core.dll
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\bin\Debug\netcoreapp3.1\OdeToFood2.Core.pdb
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\obj\Debug\netcoreapp3.1\OdeToFood2.Core.csprojAssemblyReference.cache
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\obj\Debug\netcoreapp3.1\OdeToFood2.Core.AssemblyInfoInputs.cache
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\obj\Debug\netcoreapp3.1\OdeToFood2.Core.AssemblyInfo.cs
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\obj\Debug\netcoreapp3.1\OdeToFood2.Core.csproj.CoreCompileInputs.cache
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\obj\Debug\netcoreapp3.1\OdeToFood2.Core.dll
+C:\dev\learning\OdeToFood2\OdeToFood2.Core\obj\Debug\netcoreapp3.1\OdeToFood2.Core.pdb
